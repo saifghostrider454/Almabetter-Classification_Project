@@ -25,6 +25,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+TRAIN-HEALTH INSURANCE CROSS SELL PREDICTION.csv
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
